@@ -1,4 +1,4 @@
-package iterator;
+package iterators;
 
 public class Iterator {
 	public Iterator() {
